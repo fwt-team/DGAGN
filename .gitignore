@@ -1,0 +1,7 @@
+.DS_Store
+datasets/
+.idea
+dgagn/__pycache__/*
+vmfmix/__pycache__/*
+runs
+
